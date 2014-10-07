@@ -1,6 +1,6 @@
 === iCalendrier ===
 Contributors: bplace
-Tags: calendrier,ephemeride
+Tags: calendrier,ephemeride,calendar,calendario,kalender
 Requires at least: 3.5
 Tested up to: 4.0
 Stable tag: trunk
