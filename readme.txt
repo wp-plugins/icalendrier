@@ -29,7 +29,7 @@ Languages supported :
 * español
 * português
 
-More infos here : [http://icalendrier.fr/widget/joomla-module#engsupport](http://icalendrier.fr/widget/joomla-module#engsupport)
+More infos here : [http://icalendrier.fr/widget/wordpress-plugin#engsupport](http://icalendrier.fr/widget/wordpress-plugin#engsupport)
 
 ---
 
@@ -42,7 +42,7 @@ Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress 
 * la fête du jour
 * la phase de lune actuelle
 
-Plus d'infos ici : [http://icalendrier.fr/widget/joomla-module](http://icalendrier.fr/widget/joomla-module)
+Plus d'infos ici : [http://icalendrier.fr/widget/wordpress-plugin](http://icalendrier.fr/widget/wordpress-plugin)
 
 == Installation ==
 
