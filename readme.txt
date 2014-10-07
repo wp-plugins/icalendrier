@@ -11,7 +11,28 @@ Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress 
 
 == Description ==
 
+Simple plugin to display a calendar of the day on you Wordpress site :
+
+* day name
+* current week number
+* day number
+* month
+* namdeday
+* moon phase
+
+Languages supported :
+
+* english
+* français
+* deutsch
+* italiano
+* español
+* português
+
+---
+
 Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress un éphéméride qui comprend :
+
 * le nom du jour
 * le numéro de semaine
 * le numéro du jour
@@ -21,9 +42,24 @@ Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress 
 
 == Installation ==
 
+Install the plugin on the Wordpress administration, in the extensions menu, by selecting the zip file.
+You may also use the installation from the repository of course.
+
+Once installed and activated, go to Appearance > Widgets, you'll be able to edit these options :
+
+* plugin type (compact or wide)
+* language
+* custom timezone
+* optional link to our website (compact widget only)
+* optional title before the widget
+* custom background color
+
+---
+
 Installez le plugin dans l'administration Wordpress, section Extensions, en sélectionnant le fichier Zip.
 
 Une fois installé et activé, retrouvez le plugin dans Apparence > Widgets. Peu d'options existent, mais les voici :
+
 - type du plugin, soit un compact soit un widget en taille adaptative mais qui rend bien jusqu'à 300px de large
 - le réglage optionnel du fuseau horaire
 - l'affichage en option d'un lien vers iCalendrier.fr (uniquement sur le widget compact)
@@ -32,16 +68,22 @@ Une fois installé et activé, retrouvez le plugin dans Apparence > Widgets. Peu
 
 == Frequently Asked Questions ==
 
-= Prochaines évolutions ? =
+= Next updates? =
 
-Multilangues pour commencer.
+Additional options and themes.
 
 == Screenshots ==
 
-1. Widget compact.
-2. Widget wide.
+1. Compact widget
+2. wide widget
+3. Widget compact français
+4. Widget wide français
 
 == Changelog ==
 
 = 1.0 =
 * Initial commit
+
+= 1.5 =
+* multilang supported
+* moved the code to lib files
