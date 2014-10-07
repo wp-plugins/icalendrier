@@ -29,6 +29,8 @@ Languages supported :
 * español
 * português
 
+More infos here : [http://icalendrier.fr/widget/joomla-module#engsupport](http://icalendrier.fr/widget/joomla-module#engsupport)
+
 ---
 
 Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress un éphéméride qui comprend :
@@ -39,6 +41,8 @@ Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress 
 * le mois
 * la fête du jour
 * la phase de lune actuelle
+
+Plus d'infos ici : [http://icalendrier.fr/widget/joomla-module](http://icalendrier.fr/widget/joomla-module)
 
 == Installation ==
 
