@@ -127,14 +127,14 @@ class ICalendrierWidget extends WP_Widget
             </select>
         </p>
 
-        <p>
+       <p>
             <label for="<?php echo $this->get_field_id('language'); ?>"><?php echo _e('MOD_ICAL_LANGUAGE_LABEL', 'icalendrier'); ?></label>
             <select class="widefat" id="<?php echo $this->get_field_id('language'); ?>" name="<?php echo $this->get_field_name('language'); ?>">
                 <option value="de"<?php if($language == 'de') echo " selected=\"selected\""; ?>>Deutsch</option>
                 <option value="en"<?php if($language == 'en') echo " selected=\"selected\""; ?>>English</option>
-                <option value="es"<?php if($language == 'es') echo " selected=\"selected\""; ?>>Français</option>
-                <option value="fr"<?php if($language == 'fr') echo " selected=\"selected\""; ?>>Italiano</option>
-                <option value="it"<?php if($language == 'it') echo " selected=\"selected\""; ?>>Español</option>
+                <option value="es"<?php if($language == 'es') echo " selected=\"selected\""; ?>>Español</option>
+                <option value="fr"<?php if($language == 'fr') echo " selected=\"selected\""; ?>>Français</option>
+                <option value="it"<?php if($language == 'it') echo " selected=\"selected\""; ?>>Italiano</option>
                 <option value="pt"<?php if($language == 'pt') echo " selected=\"selected\""; ?>>Português</option>
                 <option value="pt-BR"<?php if($language == 'pt-BR') echo " selected=\"selected\""; ?>>Português (Brasil)</option>
             </select>
