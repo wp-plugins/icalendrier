@@ -7,6 +7,10 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Simple plugin that displays daily informations like date, name day or moon phase.
+
+---
+
 Petit plugin simple qui vous permet d'afficher sur votre site ou blog Wordpress un éphéméride.
 
 == Description ==
